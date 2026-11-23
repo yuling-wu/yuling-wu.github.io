@@ -6,7 +6,9 @@
     - name: Position
       value: PhD student
     - name: Lab
-      value: Si Wu's lab
+      value: PKU NIPlab
+    - name: Advisor
+      value: Si WU
     - name: Institution
       value: Peking University
     - name: Center

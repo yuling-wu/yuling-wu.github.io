@@ -13,4 +13,4 @@ social: true
   <img src="{{ '/assets/img/yuling-wu-portrait.jpg' | relative_url }}" width="754" height="850" alt="Portrait of Yuling Wu" style="position: absolute; width: 176.5%; max-width: none; height: auto; left: -31.7%; top: -40%;">
 </figure>
 
-I am a PhD student at the Academy for Advanced Interdisciplinary Studies, Peking University, advised by Prof. Si Wu. My research interests lie in computational neuroscience, with a focus on the intersection of AI and neuroscience.
+I am a PhD student at the Academy for Advanced Interdisciplinary Studies, Peking University, advised by Prof. Si WU. My research interests lie in computational neuroscience, with a focus on the intersection of AI and neuroscience.
